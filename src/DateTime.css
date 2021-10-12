@@ -1,0 +1,20 @@
+.show__date__time {
+    border-bottom: 1px solid #ddd;
+}
+
+.day__wish {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.day__wish > h1 {
+    background-color: aquamarine;
+    margin: 0;
+    padding: 20px 30px;
+    border-radius: 4px;
+}
+
+.day__wish > h1 > span {
+    margin-left: 10px;
+}
